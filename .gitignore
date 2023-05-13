@@ -1,0 +1,5 @@
+/_notuse
+*__pycache__
+*.vscode
+/notebooks/*_ignore.ipynb
+/credentials/*

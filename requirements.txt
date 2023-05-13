@@ -1,0 +1,6 @@
+google_auth_oauthlib==1.0.0
+google-api-python-client==2.86.0
+black==22.6.0
+uvicorn==0.17.6
+fastapi==0.78.0
+pytest==7.3.1
