@@ -1,0 +1,2 @@
+class SharedURLCantAccessException(Exception):
+    pass
